@@ -20,7 +20,7 @@ const App = () => {
       white: "#fff",
       black: " #212529",
       helper: "#c52424",
-      bg: "#f8f8f9",
+      bg: "#f8f8f8",
       footer_bg: "#252525",
       btn: "#c52424",
       border: "#c52424",
